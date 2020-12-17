@@ -1,0 +1,19 @@
+Project Details:
+Project number: 1
+Project name: w
+Type of building being designed: w
+Physical address of project: w
+ERF number: 1
+Total project fee: R1.0
+Total of fee paid to date: R1.0
+Project deadline: 2020-12-25
+
+Contactor Details: 
+Contractor name: w
+Contractor contact number: 1
+Contractor email address: w
+Contractor physical address: w
+
+Complete: yes
+---
+
